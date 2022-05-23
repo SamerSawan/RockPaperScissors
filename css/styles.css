@@ -1,0 +1,33 @@
+body {
+    background-color: #9d0208;
+    color: #ffba08;
+    font-size: 25px;
+}
+
+.results {
+    text-align: center;
+}
+.score {
+    text-align: center;
+}
+.computer{
+    text-align: center;
+}
+
+.buttons{
+    height: 50rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{ 
+    margin: 25px;
+    border: none;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #f48c06;
+}
+button:hover {
+    cursor: pointer;
+}
